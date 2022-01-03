@@ -194,6 +194,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Gowun Batang', serif;
 		font-weight: 300;
 		line-height: 1.5;
 		margin: 0 0 0.7em 0;
@@ -252,7 +253,6 @@ input, select, textarea {
 
 	blockquote {
 		border-left: solid 4px;
-		font-style: italic;
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 2em;
 	}
@@ -319,6 +319,7 @@ input, select, textarea {
 	}
 
 	blockquote {
+		font-family: 'Gowun Batang', serif;
 		border-left-color: rgba(255, 255, 255, 0.35);
 	}
 
@@ -1843,6 +1844,7 @@ input, select, textarea {
 		border: 0;
 		cursor: pointer;
 		display: inline-block;
+		font-family: 'Gowun Batang', serif;
 		font-weight: 300;
 		height: 2.75em;
 		line-height: 2.75em;
@@ -2641,7 +2643,7 @@ input, select, textarea {
 	}
 
 		header.major h2 {
-			font-size: 2em;
+			font-size: 1.5em;
 		}
 
 			header.major h2:after {
@@ -2808,7 +2810,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		width: calc(100% + 2em);
-		margin: 0 0 3em -2em;
+		margin: 0 0 0 -2em;
 		padding: 0;
 		list-style: none;
 	}
@@ -2979,7 +2981,7 @@ input, select, textarea {
 		-webkit-align-items: center;
 		-ms-align-items: center;
 		align-items: center;
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 	}
 
 		.spotlight .content {
@@ -2994,7 +2996,7 @@ input, select, textarea {
 			}
 
 			.spotlight .content header.major {
-				margin: 0 0 2em 0;
+				margin: 0 0 0em 0;
 			}
 
 		.spotlight .image {
@@ -3081,6 +3083,7 @@ input, select, textarea {
 		}
 
 		#header p {
+			font-family: 'Gowun Batang', serif;
 			font-size: 1.25em;
 			letter-spacing: -0.025em;
 		}
@@ -3258,7 +3261,7 @@ input, select, textarea {
 		}
 
 		#nav + #main {
-			padding-top: 4.25em;
+			padding-top: 3em;
 		}
 
 		#nav ul {
@@ -3581,7 +3584,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 4em 4em 3em 4em ;
 			border-top: solid 1px #dddddd;
 		}
 
